@@ -1,3 +1,27 @@
+# some files
+bge.txt
+cross.txt
+hard.txt
+cross.txt
+bm25.txt 
+
+# models
+model/
+
+# data
+dataset/
+
+# backup
+backup/
+
+# logs
+logs/
+
+# results
+results/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
